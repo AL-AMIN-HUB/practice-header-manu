@@ -15,12 +15,6 @@ body {
     background-color: #a8abac;
 }
 
-.size {
-    font-size: 25px;
-    border-radius: 50%;
-    background-color: rgba(0, 0, 255, 0.11);
-}
-
 .social {
     display: inline-block;
     list-style-type: none;
