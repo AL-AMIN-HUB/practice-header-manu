@@ -80,3 +80,21 @@ h2 {
     color: rgb(105, 11, 11);
     border-bottom: 2px solid rgb(105, 4, 4);
 }
+
+.team {
+    list-style-type: none;
+    display: inline-block;
+    padding: 10px;
+    background-color: #2e80ed;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+
+.team a {
+    text-decoration: none;
+    color: white;
+}
+
+.team:hover {
+    background-color: blue;
+}
