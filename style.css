@@ -2,6 +2,12 @@ body {
     background-color: #eadee2;
 }
 
+.header {
+    background-color: #f7f1f4;
+    position: fixed;
+    z-index: 1;
+}
+
 .size {
     height: 300px;
 }
